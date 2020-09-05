@@ -5,7 +5,8 @@
 */
 
 console.log (reverse(123));
-console.log (reverse(-12345));
+console.log (reverse(-123));
+console.log (reverse(120));
 
 function reverse(x) {
     
